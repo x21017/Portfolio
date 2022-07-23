@@ -15,6 +15,11 @@ header {
     flex-direction: column;
 }
 
+header h1 {
+    text-align: center;
+    position: relative;
+}
+
 header ul {
     list-style: none;
     display: flex;
