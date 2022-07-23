@@ -38,9 +38,21 @@ header ul li a {
     transition: all 0.3s;
 }
 
+.about h2 {
+    text-align: center;
+}
 
+.skill h2 {
+    text-align: center;
+}
 
+.study h2 {
+    text-align: center;
+}
 
+.contact h2 {
+    text-align: center;
+}
 .contact .follow-me {
     list-style: none;
     margin: 0 0 -8px;
