@@ -49,16 +49,11 @@ header ul li a {
 .contact h2 {
     text-align: center;
 }
-.contact .follow-me {
+.follow-me ul {
     list-style: none;
-    margin: 0 0 -8px;
-    overflow: hidden;
-    padding: 0;
-}
-.contact .follow-me li {
-    float: left;
-    margin: 0 8px 8px 0;
-    padding: 0;
+    display: flex;
+    gap: 32px;
+    justify-content: center;
 }
 .follow-me li a::before {
     border-style: solid;
