@@ -50,19 +50,15 @@ header ul li a {
     text-align: center;
 }
 .contact .follow-me {
-    display: block;
     list-style: none;
     margin: 0 0 -8px;
     overflow: hidden;
     padding: 0;
-    text-align: center;
 }
 .contact .follow-me li {
-    display: block;
     float: left;
     margin: 0 8px 8px 0;
     padding: 0;
-    text-align: center;
 }
 .follow-me li a::before {
     border-style: solid;
