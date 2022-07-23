@@ -80,3 +80,9 @@ header ul li a {
 .follow-me li a:hover::before {
     background-color: #fff;
 }
+.follow-me li a[href*="twitch.tv"]:hover::before {
+    color: #6441a5; 
+}
+.follow-me li a[href*="twitter.com"]:hover::before {
+    color: #55acee; 
+}
