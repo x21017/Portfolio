@@ -20,6 +20,11 @@ header h1 {
     position: relative;
 }
 
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
 header ul {
     list-style: none;
     display: flex;
