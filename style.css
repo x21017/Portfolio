@@ -55,7 +55,7 @@ header ul li a {
     margin: 0 0 -8px;
     overflow: hidden;
     padding: 0;
-    text-align: center;
+    background-position: center;
 }
 .contact .follow-me li {
     float: left;
