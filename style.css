@@ -61,7 +61,7 @@ header ul li a {
     float: left;
     margin: 0 8px 8px 0;
     padding: 0;
-    text-align: center;
+    background-position: center;
 }
 .follow-me li a::before {
     border-style: solid;
