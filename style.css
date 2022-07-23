@@ -9,3 +9,7 @@ header {
     flex-direction: column;
     background-color: var(--base-bg);
 }
+
+header h1 {
+    text-align: center;
+}
