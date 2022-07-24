@@ -125,7 +125,11 @@ header h1 {
     width: 80%;
     margin: 0 auto;
 }
-
+#skill .skills .skill img {
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
 
 .study .studies {
     display: flex;
