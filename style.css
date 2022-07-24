@@ -101,6 +101,9 @@ header h1 {
     box-sizing: border-box;
     flex-wrap: wrap;
 }
+#works ul li {
+    width: 30%;
+}
 .study h2 {
     font-size: 2rem;
     margin-top: 20px;
