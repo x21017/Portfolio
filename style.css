@@ -103,6 +103,8 @@ header h1 {
 }
 #works ul li {
     width: 30%;
+    margin: 0 auto 30px;
+    text-align: center;
 }
 .study h2 {
     font-size: 2rem;
