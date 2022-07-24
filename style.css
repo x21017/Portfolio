@@ -127,7 +127,7 @@ header h1 {
 }
 
 
-#study .studies {
+.study .studies {
     display: flex;
     flex-direction: column;
     flex-direction: row;
@@ -135,14 +135,14 @@ header h1 {
     box-sizing: border-box;
     flex-wrap: wrap;
 }
-#study .study p {
+.study .study p {
     width: 30%;
     margin: 0 auto 30px;
     text-align: center;
     text-decoration: none;
     display: block;
 }
-#study p img {
+.study p img {
     width: 100%;
     max-height: 300px;
     border: 1px solid rgb(255, 255, 255);
@@ -155,10 +155,10 @@ header h1 {
     font-weight: normal;
     text-align: center;
 }
-#study h3 {
+.study h3 {
     font-size: 2rem;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     text-align: center;
