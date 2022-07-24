@@ -41,7 +41,6 @@ header h1 {
     float: left;
     padding: 12px;
     font-size: 16px;
-    color: black;
     font-weight: bold;
     text-align: center;
     list-style: none;
@@ -49,6 +48,7 @@ header h1 {
   
 .header-nav-item a {
     text-decoration: none;
+    color: #000;
 }
 .header-nav-item:hover {
     background: #eee;
