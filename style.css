@@ -43,7 +43,7 @@ header ul li a {
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     display: inline-block;
-    justify-content: center;
+    text-align: center;
     border-bottom: 3px solid #f6ac4d;
 }
 
