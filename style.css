@@ -141,6 +141,8 @@ header h1 {
     width: 30%;
     margin: 0 auto 30px;
     text-align: center;
+    text-decoration: none;
+    display: block;
 }
 .study h2 {
     font-size: 2rem;
