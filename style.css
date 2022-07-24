@@ -71,14 +71,14 @@ header h1 {
     text-align: center;
 }
 .about .about-item .profile h3 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 .about .about-item .text {
     line-height: 1.8;
-    font-size: 0.7rem;
+    font-size: 1.1rem;
     margin-bottom: 20px;
 }
 .about .about-item .main {
