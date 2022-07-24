@@ -95,6 +95,12 @@ header h1 {
     text-align: center;
 }
 
+#study ul {
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
 .study h2 {
     font-size: 2rem;
     margin-top: 20px;
