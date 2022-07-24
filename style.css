@@ -127,7 +127,7 @@ header h1 {
 }
 
 
-#study ul {
+#study .studies {
     display: flex;
     flex-direction: column;
     flex-direction: row;
@@ -135,14 +135,14 @@ header h1 {
     box-sizing: border-box;
     flex-wrap: wrap;
 }
-#study .study li a {
+#study .study p {
     width: 30%;
     margin: 0 auto 30px;
     text-align: center;
     text-decoration: none;
     display: block;
 }
-#study ul li a img {
+#study p img {
     width: 100%;
     max-height: 300px;
     border: 1px solid rgb(255, 255, 255);
