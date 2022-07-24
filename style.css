@@ -61,6 +61,7 @@ header h1 {
     flex-direction: row;
     box-sizing: border-box;
     align-items: center;
+    display: inline-block;
     justify-content: center;
 }
 .about h2 {
