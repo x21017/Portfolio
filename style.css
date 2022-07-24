@@ -108,6 +108,7 @@ header h1 {
 }
 #skill .skills .skill {
     width: 25%;
+    margin-bottom: 50px;
 }
 #skill .skills .skill h3 {
     text-align: center;
@@ -143,7 +144,7 @@ header h1 {
     text-decoration: none;
     display: block;
 }
-works ul li a img {
+#study ul li a img {
     width: 100%;
     max-height: 300px;
     border: 1px solid rgb(255, 255, 255);
