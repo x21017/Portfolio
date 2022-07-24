@@ -70,7 +70,13 @@ header h1 {
     font-weight: normal;
     text-align: center;
 }
-.about .about-item {
+.about .about-item .text h3 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about .about-item .main {
     margin-left: 20px;
 }
     
