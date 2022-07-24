@@ -57,6 +57,7 @@ header h1 {
 }
 
 .about-item {
+    text-align: center;
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
