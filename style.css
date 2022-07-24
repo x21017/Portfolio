@@ -50,6 +50,7 @@ header h1 {
 
 .about h2 {
     font-size: 2rem;
+    margin-top: 20px;
     margin-bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
