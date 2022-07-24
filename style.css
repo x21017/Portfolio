@@ -111,6 +111,22 @@ footer {
     text-align: center;
     line-height: 80px;
 }
+#page-top a{
+    background:#942D2F;
+    color:#fff;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding:20px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.8rem;
+    transition: all 0.3s;
+}
+  
+#page-top a:hover{
+    background: #777;
+}
 footer ul {
     list-style: none;
     display: flex;
