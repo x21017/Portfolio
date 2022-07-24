@@ -38,18 +38,33 @@ header ul li a {
 }
 
 .about h2 {
+    font-size: 2rem;
     text-align: center;
-    border-bottom: 3px solid #fdc076;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    display: inline-block;
+    border-bottom: 3px solid #f6ac4d;
 }
 
 .skill h2 {
+    font-size: 2rem;
     text-align: center;
-    border-bottom: 3px solid #fdc076;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    display: inline-block;
+    border-bottom: 3px solid #f6ac4d;
 }
 
 .study h2 {
+    font-size: 2rem;
     text-align: center;
-    border-bottom: 3px solid #fdc076;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    display: inline-block;
+    border-bottom: 3px solid #f6ac4d;
 }
 
 footer {
