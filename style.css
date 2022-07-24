@@ -138,8 +138,6 @@ header h1 {
 }
 #study .study li a {
     width: 30%;
-}
-#study ul li {
     margin: 0 auto 30px;
     text-align: center;
 }
