@@ -86,11 +86,6 @@ header h1 {
     margin-right: 30px;
 }
 
-#skill .skills {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 .skill h2 {
     font-size: 2rem;
     margin-top: 20px;
@@ -99,6 +94,27 @@ header h1 {
     font-weight: normal;
     text-align: center;
 }
+#skill .skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#skill .skills .skill {
+    width: 30%;
+}
+#skill .skills .skill h3 {
+    font-size: 1.7rem;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+#skill .skills .skill p {
+    font-size: 1rem;
+    line-height: 1.8;
+    padding: 0 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
 
 #study ul {
     flex-direction: row;
