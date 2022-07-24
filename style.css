@@ -129,7 +129,6 @@ header h1 {
     flex-wrap: wrap;
 }
 #works ul li {
-    width: 30%;
     margin: 0 auto 30px;
     text-align: center;
 }
