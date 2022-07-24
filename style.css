@@ -108,7 +108,7 @@ header h1 {
     justify-content: space-around;
 }
 #skill .skills .skill {
-    width: 25%;
+    width: 50%;
     margin-bottom: 50px;
 }
 #skill .skills .skill h3 {
