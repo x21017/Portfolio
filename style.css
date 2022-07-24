@@ -56,6 +56,12 @@ header h1 {
     background: #eee;
 }
 
+.about {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+}
 .about h2 {
     font-size: 2rem;
     margin-top: 20px;
