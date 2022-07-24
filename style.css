@@ -126,9 +126,8 @@ header h1 {
     margin: 0 auto;
 }
 #skill .skills .skill img {
-    text-align: center;
-    text-decoration: none;
-    display: block;
+    box-sizing: border-box;
+    justify-content: center;
 }
 
 .study .studies {
