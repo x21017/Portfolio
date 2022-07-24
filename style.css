@@ -142,11 +142,6 @@ header h1 {
     text-decoration: none;
     display: block;
 }
-.study p img {
-    width: 100%;
-    max-height: 300px;
-    border: 1px solid rgb(255, 255, 255);
-}
 .study h2 {
     font-size: 2rem;
     margin-top: 20px;
