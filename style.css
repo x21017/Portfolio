@@ -39,11 +39,11 @@ header ul li a {
 
 .about h2 {
     font-size: 2rem;
-    justify-content: center;
     margin-bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     display: inline-block;
+    justify-content: center;
     border-bottom: 3px solid #f6ac4d;
 }
 
