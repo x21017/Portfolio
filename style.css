@@ -85,7 +85,12 @@ header h1 {
     margin-left: 30px;
     margin-right: 30px;
 }
-    
+
+#skill .skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 .skill h2 {
     font-size: 2rem;
     margin-top: 20px;
