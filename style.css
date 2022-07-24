@@ -108,6 +108,8 @@ header h1 {
     justify-content: space-around;
 }
 #skill .skills .skill {
+    box-sizing: border-box;
+    justify-content: center;
     width: 50%;
     margin-bottom: 50px;
 }
