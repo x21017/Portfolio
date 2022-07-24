@@ -57,7 +57,6 @@ header h1 {
 }
 
 .about-item {
-    text-align: center;
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
@@ -77,12 +76,18 @@ header h1 {
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
+.about .about-item .profile {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
 .about .about-item .text {
     line-height: 1.8;
     font-size: 1.1rem;
     margin-bottom: 20px;
 }
 .about .about-item .main {
+    display: block;
     margin-left: 30px;
     margin-right: 30px;
 }
