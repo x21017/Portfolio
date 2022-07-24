@@ -56,7 +56,7 @@ header h1 {
     background: #eee;
 }
 
-.about {
+.about-item {
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
